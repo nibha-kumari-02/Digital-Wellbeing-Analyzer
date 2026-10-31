@@ -1,5 +1,5 @@
-🌿 Digital Wellbeing Analyzer
-📌 Project Overview
+ Digital Wellbeing Analyzer
+ Project Overview
 
 Digital Wellbeing Analyzer is a Python-based desktop application that automatically tracks the time spent on different applications on a Windows computer.
 
@@ -15,7 +15,7 @@ Display total application usage time.
 Analyze study, social media, and entertainment time.
 Visualize application usage through graphs.
 Export usage reports in CSV format.
-✨ Features
+ Features
 1. Automatic Application Tracking
 Detects the currently active Windows application.
 Retrieves application names and window titles.
